@@ -1,1 +1,1 @@
-# IS340-Spring-2020
+# IS340-Summer-2020
