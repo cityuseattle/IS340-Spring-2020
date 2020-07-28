@@ -1,4 +1,3 @@
-wq!
 #!/bin/bash
 printf "Hello %s!\n" "$1"
 printf "Value of all positional parameters: %s\n" "$*"
