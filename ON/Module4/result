@@ -1,0 +1,819 @@
+Processes: 327 total, 2 running, 325 sleeping, 1540 threads 
+2020/08/04 16:23:06
+Load Avg: 2.13, 2.02, 2.09 
+CPU usage: 13.33% user, 12.77% sys, 73.88% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86514 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7601M used (1617M wired), 589M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012649/6244M in, 1280719/198M out.
+Disks: 1712320/24G read, 1705818/22G written.
+
+PID   COMMAND %CPU TIME     #TH #WQ #PORTS MEM  PURG CMPRS PGRP PPID STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS COW MSGSENT MSGRECV SYSBSD SYSMACH CSW PAGEINS IDLEW POWER INSTRS CYCLES USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+4495  tee     0.0  00:00.00 1   0   11     392K 0B   0B    4494 4332 sleeping *0[1]  0.00000 0.00000    501 364    84  29      14      142    56      13  1       0     0.0   0      0      Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1528 threads 
+2020/08/04 16:23:07
+Load Avg: 2.04, 2.00, 2.08 
+CPU usage: 16.55% user, 5.44% sys, 77.99% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86514 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7596M used (1614M wired), 593M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012655/6244M in, 1280720/198M out.
+Disks: 1712322/24G read, 1705819/22G written.
+
+PID   COMMAND          %CPU TIME     #TH #WQ #PORTS MEM   PURG CMPRS PGRP PPID STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS   COW   MSGSENT  MSGRECV  SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+3269  Google Chrome He 77.5 61:38.11 26  1   221    365M+ 0B   42M   701  701  sleeping *0[7]  0.00000 0.00000    501 3226499+ 12763 4757033+ 2026918+ 18990201+ 19031705+ 16882984+ 1871    396876+ 80.4  1672410565 2224534392 Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 3 running, 1 stuck, 323 sleeping, 1616 threads 
+2020/08/04 16:23:08
+Load Avg: 2.04, 2.00, 2.08 
+CPU usage: 22.55% user, 6.39% sys, 71.4% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86514 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7633M used (1687M wired), 556M unused.
+VM: 2330G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012685/6244M in, 1280753/198M out.
+Disks: 1712328/24G read, 1705827/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH #WQ #PORTS MEM   PURG CMPRS PGRP PPID STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS   COW    MSGSENT  MSGRECV  SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+3269  Google Chrome He 116.5 61:39.32 26  1   224+   367M+ 0B   42M   701  701  sleeping *0[7]  0.00000 0.00000    501 3227049+ 12838+ 4758731+ 2027578+ 18995596+ 19036846+ 16888411+ 1871    396942+ 119.7 2118819156 2740060996 Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1619 threads 
+2020/08/04 16:23:09
+Load Avg: 2.04, 2.00, 2.08 
+CPU usage: 9.18% user, 3.74% sys, 87.6% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86514 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7633M used (1677M wired), 557M unused.
+VM: 2330G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012703/6244M in, 1280753/198M out.
+Disks: 1712328/24G read, 1705827/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH #WQ #PORTS MEM   PURG CMPRS PGRP PPID STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS   COW    MSGSENT  MSGRECV  SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+3269  Google Chrome He 31.5  61:39.65 26  1   224    367M+ 0B   42M   701  701  sleeping *0[7]  0.00000 0.00000    501 3227299+ 12892+ 4759342+ 2027814+ 18996483+ 19039547+ 16889516+ 1871    397025+ 35.5  613080234  700733409  Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1623 threads 
+2020/08/04 16:23:10
+Load Avg: 2.04, 2.00, 2.08 
+CPU usage: 5.58% user, 3.76% sys, 90.64% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86514 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7675M used (1747M wired), 515M unused.
+VM: 2330G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012752/6244M in, 1280780/198M out.
+Disks: 1712333/24G read, 1705827/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS   COW    MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     18.4  40:43.76 10  4   1892+  708M+ 5684K- 54M   297  1    sleeping *0[1]  6.17650 0.02046    88  4170931+ 105937 28731189+ 13677808+ 11233344+ 40408426+ 13551846+ 5777    802080+ 22.9  247417289  396335766  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 3 running, 324 sleeping, 1643 threads 
+2020/08/04 16:23:12
+Load Avg: 2.04, 2.00, 2.08 
+CPU usage: 9.28% user, 4.22% sys, 86.48% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86514 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7676M used (1809M wired), 514M unused.
+VM: 2330G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012754/6244M in, 1280780/198M out.
+Disks: 1712335/24G read, 1705827/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS   COW    MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+382   mds_stores       20.4  02:37.63 16  14  110+   38M-  7140K  18M   382  1    sleeping *0[1]  0.00000 19.58374   0   1474302+ 6098   138824+   50075+    1747478+  314164+   652281+   516459  9701    20.4  790378060  402690330  root          N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 3 running, 324 sleeping, 1639 threads 
+2020/08/04 16:23:13
+Load Avg: 2.20, 2.04, 2.09 
+CPU usage: 2.78% user, 5.44% sys, 91.76% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86514 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7680M used (1820M wired), 510M unused.
+VM: 2330G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012756/6244M in, 1280781/198M out.
+Disks: 1712409/24G read, 1706689/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS   COW    MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+382   mds_stores       21.4  02:37.85 16  14  112+   37M-  7140K  18M   382  1    sleeping *0[1]  0.00000 19.54460   0   1474897+ 6098   138849+   50086+    1748229+  314203+   652675+   516605+ 9702+   21.5  725841322  450247439  root          N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 326 total, 2 running, 324 sleeping, 1631 threads 
+2020/08/04 16:23:14
+Load Avg: 2.20, 2.04, 2.09 
+CPU usage: 1.92% user, 1.80% sys, 96.27% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86455 total, 2139M resident, 111M private, 945M shared.
+PhysMem: 7672M used (1760M wired), 518M unused.
+VM: 2325G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012764/6244M in, 1280785/198M out.
+Disks: 1712409/24G read, 1706700/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS   COW    MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     5.4   40:44.10 10  4   1893   752M- 6292K  54M   297  1    sleeping *0[1]  0.00000 0.00144    88  4171475+ 105966 28734680+ 13680152+ 11235371+ 40414667+ 13553537+ 5777    802349+ 11.5  55290746   96539566   _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1635 threads 
+2020/08/04 16:23:15
+Load Avg: 2.20, 2.04, 2.09 
+CPU usage: 1.82% user, 1.33% sys, 96.84% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86508 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7673M used (1756M wired), 517M unused.
+VM: 2330G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012772/6244M in, 1280789/198M out.
+Disks: 1712409/24G read, 1706700/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS   COW    MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     5.0   40:44.15 10  4   1893   746M- 6292K  54M   297  1    sleeping *0[1]  0.00000 0.00138    88  4171482+ 105966 28734756+ 13680201+ 11235602+ 40415257+ 13553784+ 5777    802465+ 10.6  48332848   88286278   _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1576 threads 
+2020/08/04 16:23:16
+Load Avg: 2.20, 2.04, 2.09 
+CPU usage: 1.69% user, 1.57% sys, 96.72% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86508 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7651M used (1697M wired), 539M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012794/6244M in, 1280793/198M out.
+Disks: 1712409/24G read, 1706700/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS   COW    MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     5.1   40:44.21 10  4   1893   709M- 6308K+ 54M   297  1    sleeping *0[1]  0.00000 0.00161    88  4171488+ 105966 28734906+ 13680272+ 11235870+ 40415882+ 13554039+ 5777    802578+ 10.5  49325219   90015310   _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 4 running, 323 sleeping, 1536 threads 
+2020/08/04 16:23:17
+Load Avg: 2.20, 2.04, 2.09 
+CPU usage: 4.0% user, 1.82% sys, 94.17% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86508 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7648M used (1666M wired), 543M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012798/6244M in, 1280793/198M out.
+Disks: 1712409/24G read, 1706700/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW    MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+1900  Microsoft Word   18.3  08:04.69 18/1 7   1971+  419M+ 2572K- 124M+ 1900 1    running  *1+[3486+] 0.00831 0.47641    501 1220624+ 18193  2711297+  667959+   2978794+  6312695+  2491995+  18713   102406+ 19.2  418448992  468464051  Kalii         N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 3 running, 324 sleeping, 1534 threads 
+2020/08/04 16:23:18
+Load Avg: 2.10, 2.02, 2.09 
+CPU usage: 5.70% user, 3.87% sys, 90.41% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86508 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7696M used (1643M wired), 494M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012805/6244M in, 1280797/198M out.
+Disks: 1712409/24G read, 1706700/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW    MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+1900  Microsoft Word   27.4  08:05.01 18   7   1970-  419M+ 2852K+ 124M  1900 1    sleeping *0-[3486]  0.00863 0.75083    501 1220801+ 18193  2712277+  668135+   2979243+  6315002+  2492592+  18713   102422+ 28.1  885995264  804282006  Kalii         N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1553 threads 
+2020/08/04 16:23:19
+Load Avg: 2.10, 2.02, 2.09 
+CPU usage: 4.0% user, 2.42% sys, 93.56% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86508 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7695M used (1619M wired), 496M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012820/6244M in, 1280800/198M out.
+Disks: 1712411/24G read, 1706705/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     12.5  40:44.63 10   4   1894-  750M+ 6048K- 54M   297  1    sleeping *0[1]      3.05589 0.01767    88  4172309+ 105994+ 28739737+ 13683616+ 11238992+ 40425413+ 13556553+ 5777    802861+ 17.6  152083035  258180302  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1571 threads 
+2020/08/04 16:23:20
+Load Avg: 2.10, 2.02, 2.09 
+CPU usage: 2.65% user, 2.53% sys, 94.81% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86508 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7694M used (1630M wired), 496M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012839/6244M in, 1280803/198M out.
+Disks: 1712412/24G read, 1706821/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     9.1   40:44.73 10   4   1895+  748M- 6176K+ 54M   297  1    sleeping *0[1]      1.47751 0.00491    88  4172452+ 105994  28740882+ 13684082+ 11239568+ 40427387+ 13557120+ 5777    802967+ 14.2  90203919   161032073  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1572 threads 
+2020/08/04 16:23:21
+Load Avg: 2.10, 2.02, 2.09 
+CPU usage: 2.18% user, 1.33% sys, 96.48% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86508 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7697M used (1624M wired), 494M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012841/6244M in, 1280803/198M out.
+Disks: 1712412/24G read, 1706823/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     5.8   40:44.79 10   4   1891-  747M- 6176K  54M   297  1    sleeping *0[1]      0.18269 0.00835    88  4172463+ 105994  28741049+ 13684179+ 11239848+ 40428174+ 13557426+ 5777    803077+ 11.1  53430272   98603114   _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 3 running, 324 sleeping, 1575 threads 
+2020/08/04 16:23:22
+Load Avg: 2.10, 2.02, 2.09 
+CPU usage: 1.44% user, 1.32% sys, 97.22% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86508 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7696M used (1610M wired), 494M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012855/6244M in, 1280803/198M out.
+Disks: 1712412/24G read, 1706823/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     5.4   40:44.84 10   4   1891   747M  6176K  54M   297  1    sleeping *0[1]      0.00000 0.00141    88  4172469+ 105994  28741135+ 13684236+ 11240094+ 40428791+ 13557681+ 5777    803196+ 11.2  49891400   91332217   _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1572 threads 
+2020/08/04 16:23:23
+Load Avg: 2.09, 2.02, 2.09 
+CPU usage: 1.93% user, 1.20% sys, 96.85% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86508 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7696M used (1588M wired), 493M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012859/6244M in, 1280803/198M out.
+Disks: 1712412/24G read, 1706823/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     6.2   40:44.91 10   4   1893+  726M- 6292K+ 54M-  297  1    sleeping *0[1]      0.19602 0.00271    88  4172483+ 105994  28741308+ 13684347+ 11240458+ 40429575+ 13558004+ 5777    803312+ 11.8  56080361   103017139  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1551 threads 
+2020/08/04 16:23:24
+Load Avg: 2.09, 2.02, 2.09 
+CPU usage: 2.30% user, 2.5% sys, 95.64% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86508 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7696M used (1585M wired), 494M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012860/6244M in, 1280804/198M out.
+Disks: 1712412/24G read, 1706840/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     8.0   40:44.99 10   4   1890-  726M- 6292K  54M   297  1    sleeping *0[1]      1.61803 0.00457    88  4172692+ 105994  28742180+ 13684662+ 11240793+ 40431474+ 13558526+ 5777    803421+ 13.3  75046501   139432328  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 326 total, 2 running, 324 sleeping, 1522 threads 
+2020/08/04 16:23:25
+Load Avg: 2.09, 2.02, 2.09 
+CPU usage: 5.91% user, 2.65% sys, 91.42% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86455 total, 2139M resident, 111M private, 945M shared.
+PhysMem: 7696M used (1614M wired), 494M unused.
+VM: 2325G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012868/6244M in, 1280807/198M out.
+Disks: 1712412/24G read, 1706846/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+1900  Microsoft Word   27.3  08:05.48 20   9   1972+  420M+ 2084K- 124M  1900 1    sleeping *0[3489+]  0.00951 0.64741    501 1221504+ 18193   2714789+  668734+   2980820+  6320464+  2494318+  18713   102555+ 28.0  693197963  674614819  Kalii         N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1533 threads 
+2020/08/04 16:23:26
+Load Avg: 2.09, 2.02, 2.09 
+CPU usage: 3.13% user, 2.41% sys, 94.45% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86509 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7705M used (1612M wired), 485M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012868/6244M in, 1280807/198M out.
+Disks: 1712412/24G read, 1706846/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     9.0   40:45.27 10   4   1891-  751M+ 6160K  54M   297  1    sleeping *0[1]      1.10985 0.00746    88  4172990+ 105994  28744498+ 13686073+ 11242550+ 40436198+ 13560117+ 5777    803613+ 14.0  86309089   161575438  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1535 threads 
+2020/08/04 16:23:27
+Load Avg: 2.17, 2.03, 2.09 
+CPU usage: 3.15% user, 2.6% sys, 94.78% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86509 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7705M used (1612M wired), 485M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012876/6244M in, 1280808/198M out.
+Disks: 1712412/24G read, 1706846/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     11.1  40:45.38 10   4   1891   751M- 6160K  54M   297  1    sleeping *0[1]      2.33374 0.00956    88  4173197+ 105994  28745955+ 13686636+ 11243036+ 40439001+ 13560862+ 5777    803716+ 16.1  99850013   193624223  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1538 threads 
+2020/08/04 16:23:28
+Load Avg: 2.17, 2.03, 2.09 
+CPU usage: 4.51% user, 3.97% sys, 91.50% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86509 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7704M used (1612M wired), 485M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012896/6244M in, 1280809/198M out.
+Disks: 1712412/24G read, 1707014/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+3789  Terminal         17.4  00:27.08 6    1   281-   52M-  3660K  4680K 3789 1    sleeping *0[656]    0.02600 1.31057    501 397904+  973     226409+   52838+    204541+   623460+   190988+   1145    6383+   17.7  371166127  409569620  Kalii         N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1548 threads 
+2020/08/04 16:23:29
+Load Avg: 2.17, 2.03, 2.09 
+CPU usage: 4.71% user, 2.53% sys, 92.74% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86509 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7705M used (1615M wired), 484M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012896/6244M in, 1280809/198M out.
+Disks: 1712412/24G read, 1707014/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     15.2  40:45.71 10   4   1892+  755M+ 6416K+ 54M   297  1    sleeping *0[1]      2.02922 0.02298    88  4173521+ 105994  28748930+ 13688214+ 11245224+ 40445722+ 13563200+ 5777    803913+ 19.7  158304891  297731527  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1555 threads 
+2020/08/04 16:23:30
+Load Avg: 2.17, 2.03, 2.09 
+CPU usage: 3.86% user, 2.17% sys, 93.95% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86509 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7699M used (1595M wired), 490M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012912/6244M in, 1280810/198M out.
+Disks: 1712413/24G read, 1707015/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+1900  Microsoft Word   14.1  08:05.84 20   9   1941   420M- 3024K+ 124M  1900 1    sleeping *0[3492]   0.00711 0.36448    501 1221660+ 18193   2716442+  669171+   2981957+  6324550+  2495683+  18713   102623+ 14.9  399125664  333011163  Kalii         N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1539 threads 
+2020/08/04 16:23:31
+Load Avg: 2.17, 2.03, 2.09 
+CPU usage: 1.93% user, 1.33% sys, 96.73% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86509 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7700M used (1575M wired), 490M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012927/6244M in, 1280810/198M out.
+Disks: 1712413/24G read, 1707015/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     6.5   40:45.88 10   4   1899+  731M- 7116K+ 54M   297  1    sleeping *0[1]      0.00000 0.00136    88  4173628+ 105994  28749749+ 13688783+ 11246168+ 40448063+ 13564035+ 5777    804127+ 12.0  62959719   113966587  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1537 threads 
+2020/08/04 16:23:32
+Load Avg: 2.07, 2.02, 2.08 
+CPU usage: 5.6% user, 2.5% sys, 92.88% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86509 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7700M used (1594M wired), 490M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012931/6244M in, 1280810/198M out.
+Disks: 1712413/24G read, 1707015/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+1900  Microsoft Word   21.9  08:06.10 20   9   1972   420M+ 8100K- 124M  1900 1    sleeping *0[3493+]  0.01262 0.60799    501 1221809+ 18193   2717127+  669355+   2982355+  6326383+  2496146+  18713   102667+ 22.9  552720665  515709149  Kalii         N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1530 threads 
+2020/08/04 16:23:33
+Load Avg: 2.07, 2.02, 2.08 
+CPU usage: 7.15% user, 2.42% sys, 90.42% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86509 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7684M used (1595M wired), 506M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012935/6244M in, 1280810/198M out.
+Disks: 1712413/24G read, 1707015/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+1900  Microsoft Word   37.1  08:06.49 20   9   1972   420M- 2488K- 124M- 1900 1    sleeping *0[3493]   0.02573 1.06636    501 1221946+ 18193   2718470+  669743+   2982959+  6329139+  2496900+  18713   102684+ 37.9  976519362  890336474  Kalii         N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1523 threads 
+2020/08/04 16:23:35
+Load Avg: 2.07, 2.02, 2.08 
+CPU usage: 2.77% user, 1.20% sys, 96.1% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86509 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7686M used (1592M wired), 504M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012941/6244M in, 1280810/198M out.
+Disks: 1712413/24G read, 1707015/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     6.8   40:46.30 10   4   1921+  731M- 6552K- 54M   297  1    sleeping *0[1]      0.00000 0.00187    88  4174000+ 105994  28752753+ 13690774+ 11248762+ 40454531+ 13566131+ 5777    804405+ 12.2  67659149   121089425  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1515 threads 
+2020/08/04 16:23:36
+Load Avg: 2.07, 2.02, 2.08 
+CPU usage: 1.81% user, 1.57% sys, 96.61% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86509 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7687M used (1594M wired), 503M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012949/6244M in, 1280810/198M out.
+Disks: 1712413/24G read, 1707015/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     6.8   40:46.37 10   4   1891-  735M+ 6424K- 54M   297  1    sleeping *0[1]      0.44920 0.00191    88  4174031+ 105994  28753278+ 13690999+ 11249076+ 40455661+ 13566474+ 5777    804514+ 12.0  66524126   115946910  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1515 threads 
+2020/08/04 16:23:37
+Load Avg: 2.07, 2.02, 2.08 
+CPU usage: 2.30% user, 1.81% sys, 95.87% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86509 total, 2140M resident, 111M private, 945M shared.
+PhysMem: 7686M used (1586M wired), 504M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012959/6244M in, 1280816/198M out.
+Disks: 1712413/24G read, 1707015/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     7.1   40:46.44 10   4   1891   728M- 6424K  54M   297  1    sleeping *0[1]      1.31990 0.00148    88  4174106+ 105994  28754120+ 13691288+ 11249407+ 40457255+ 13566946+ 5777    804615+ 12.0  66613816   124147180  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 326 total, 3 running, 323 sleeping, 1520 threads 
+2020/08/04 16:23:38
+Load Avg: 1.99, 2.00, 2.08 
+CPU usage: 4.22% user, 2.53% sys, 93.23% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86455 total, 2139M resident, 110M private, 945M shared.
+PhysMem: 7685M used (1588M wired), 505M unused.
+VM: 2325G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012962/6244M in, 1280818/198M out.
+Disks: 1712413/24G read, 1707015/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     13.3  40:46.58 10/2 4   1892+  728M+ 6552K+ 54M   297  1    running  *0[1]      2.34233 0.01939    88  4174245+ 105994  28755679+ 13691945+ 11250163+ 40460293+ 13567895+ 5777    804727+ 18.7  111295173  235597920  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1525 threads 
+2020/08/04 16:23:39
+Load Avg: 1.99, 2.00, 2.08 
+CPU usage: 5.91% user, 3.76% sys, 90.32% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86510 total, 2140M resident, 110M private, 945M shared.
+PhysMem: 7686M used (1575M wired), 504M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012968/6244M in, 1280820/198M out.
+Disks: 1712413/24G read, 1707015/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+3789  Terminal         24.1  00:27.60 6    1   280    52M   912K   4680K 3789 1    sleeping *0[657]    0.04005 1.24967    501 398117+  973     228795+   53333+    205639+   629716+   192497+   1145    6417+   24.5  569358317  555593190  Kalii         N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1527 threads 
+2020/08/04 16:23:40
+Load Avg: 1.99, 2.00, 2.08 
+CPU usage: 2.66% user, 1.81% sys, 95.52% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86510 total, 2140M resident, 110M private, 945M shared.
+PhysMem: 7686M used (1519M wired), 504M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293280(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5012992/6244M in, 1280822/198M out.
+Disks: 1712413/24G read, 1707015/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     9.2   40:46.90 10   4   1889-  728M- 6552K  54M   297  1    sleeping *0[1]      1.07746 0.01459    88  4174408+ 105994  28758083+ 13693237+ 11252266+ 40466323+ 13570210+ 5777    804954+ 14.8  75692277   161320833  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 3 running, 324 sleeping, 1532 threads 
+2020/08/04 16:23:41
+Load Avg: 1.99, 2.00, 2.08 
+CPU usage: 5.22% user, 4.73% sys, 90.3% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86232 total, 2139M resident, 110M private, 945M shared.
+PhysMem: 7707M used (1526M wired), 483M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293461(181) swapins, 1430401(0) swapouts.
+Networks: packets: 5013043/6244M in, 1280847/198M out.
+Disks: 1714674/24G read, 1707020/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+3897  Adobe CEF Helper 14.9  00:00.29 15/1 1   136+   23M+  0B     6256K- 516  516  running  *0[1]      8.26204 0.00000    501 16761+   1898+   874+      566+      3012+     2280+     1722+     1872+   117     14.9  594851921  442728331  Kalii         N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 3 running, 324 sleeping, 1547 threads 
+2020/08/04 16:23:42
+Load Avg: 1.99, 2.00, 2.08 
+CPU usage: 4.70% user, 1.80% sys, 93.48% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86232 total, 2139M resident, 110M private, 945M shared.
+PhysMem: 7726M used (1523M wired), 464M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293930(469) swapins, 1430401(0) swapouts.
+Networks: packets: 5013078/6244M in, 1280862/198M out.
+Disks: 1714730/24G read, 1707021/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+3897  Adobe CEF Helper 19.6  00:00.49 21   2   181+   35M+  0B     5972K- 516  516  sleeping *0[1]      0.02094 0.00000    501 21808+   1910+   1337+     843+      4361+     3467+     2177+     1883+   131+    20.3  725235155  543512266  Kalii         N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1553 threads 
+2020/08/04 16:23:43
+Load Avg: 2.07, 2.02, 2.08 
+CPU usage: 4.12% user, 3.87% sys, 92.0% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86232 total, 2139M resident, 110M private, 945M shared.
+PhysMem: 7727M used (1517M wired), 464M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293930(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013091/6244M in, 1280865/198M out.
+Disks: 1715033/24G read, 1707028/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+156   systemstats      29.0  00:08.02 5    4   114+   9764K+ 0B     1248K  156  1    sleeping  0[29]     4.55963 24.45131   0   36042+   258     46473+    25929+    920626+   50536+    43003+    1892    1196+   29.1  644247196  521135145  root          N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1545 threads 
+2020/08/04 16:23:44
+Load Avg: 2.07, 2.02, 2.08 
+CPU usage: 1.57% user, 1.20% sys, 97.22% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86232 total, 2139M resident, 110M private, 945M shared.
+PhysMem: 7726M used (1514M wired), 464M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293930(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013099/6244M in, 1280868/198M out.
+Disks: 1715033/24G read, 1707030/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     5.1   40:47.10 9    4   1887-  701M-  9272K+ 54M    297  1    sleeping *0[1]      0.00000 0.00073    88  4174457+ 105994  28758540+ 13693473+ 11253270+ 40468963+ 13571294+ 5777    805318+ 10.7  43777093   80730159   _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1546 threads 
+2020/08/04 16:23:45
+Load Avg: 2.07, 2.02, 2.08 
+CPU usage: 1.57% user, 1.33% sys, 97.9% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86232 total, 2139M resident, 110M private, 945M shared.
+PhysMem: 7726M used (1514M wired), 465M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293930(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013102/6244M in, 1280871/198M out.
+Disks: 1715033/24G read, 1707030/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     4.7   40:47.15 9    4   1887   701M   9272K  54M    297  1    sleeping *0[1]      0.00000 0.00075    88  4174462+ 105994  28758584+ 13693500+ 11253478+ 40469506+ 13571525+ 5777    805439+ 10.6  41442655   76641337   _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1538 threads 
+2020/08/04 16:23:46
+Load Avg: 2.07, 2.02, 2.08 
+CPU usage: 1.81% user, 1.45% sys, 96.73% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86232 total, 2139M resident, 110M private, 945M shared.
+PhysMem: 7726M used (1514M wired), 464M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293930(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013119/6244M in, 1280875/198M out.
+Disks: 1715033/24G read, 1707030/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     4.7   40:47.20 9    4   1887   701M-  9276K+ 54M    297  1    sleeping *0[1]      0.00000 0.00071    88  4174467+ 105994  28758633+ 13693530+ 11253688+ 40470054+ 13571756+ 5777    805554+ 10.3  41329915   76563671   _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1532 threads 
+2020/08/04 16:23:47
+Load Avg: 2.07, 2.02, 2.08 
+CPU usage: 1.45% user, 1.21% sys, 97.32% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86232 total, 2139M resident, 110M private, 945M shared.
+PhysMem: 7726M used (1514M wired), 464M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293930(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013124/6244M in, 1280879/198M out.
+Disks: 1715033/24G read, 1707030/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     4.8   40:47.25 9    4   1886-  701M   9276K  54M-   297  1    sleeping *0[1]      0.00000 0.00076    88  4174473+ 105994  28758684+ 13693563+ 11253897+ 40470607+ 13571998+ 5777    805673+ 10.6  41003915   76439496   _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1521 threads 
+2020/08/04 16:23:48
+Load Avg: 2.06, 2.02, 2.08 
+CPU usage: 1.56% user, 1.20% sys, 97.22% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86232 total, 2139M resident, 111M private, 945M shared.
+PhysMem: 7726M used (1514M wired), 464M unused.
+VM: 2329G vsize, 1881M framework vsize, 1293930(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013125/6244M in, 1280880/198M out.
+Disks: 1715033/24G read, 1707030/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     4.8   40:47.30 9    4   1886   701M   9276K  54M    297  1    sleeping *0[1]      0.00000 0.00093    88  4174478+ 105994  28758732+ 13693595+ 11254117+ 40471159+ 13572238+ 5777    805787+ 10.3  41522081   77009667   _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 326 total, 2 running, 324 sleeping, 1526 threads 
+2020/08/04 16:23:49
+Load Avg: 2.06, 2.02, 2.08 
+CPU usage: 1.96% user, 2.62% sys, 95.40% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86177 total, 2138M resident, 111M private, 945M shared.
+PhysMem: 7726M used (1514M wired), 465M unused.
+VM: 2325G vsize, 1881M framework vsize, 1294058(128) swapins, 1430401(0) swapouts.
+Networks: packets: 5013131/6244M in, 1280880/198M out.
+Disks: 1715035/24G read, 1707030/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+4494  top              12.5  00:02.08 1/1  0   27-    2556K  0B     0B     4494 4332 running  *0[1]      0.00000 0.00000    0   14816+   109     553395+   276629+   55391+    383510+   716+      5       27+     12.5  310229192  401633933  root          N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1539 threads 
+2020/08/04 16:23:50
+Load Avg: 2.06, 2.02, 2.08 
+CPU usage: 1.80% user, 1.56% sys, 96.62% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86228 total, 2139M resident, 111M private, 945M shared.
+PhysMem: 7728M used (1514M wired), 463M unused.
+VM: 2329G vsize, 1881M framework vsize, 1294058(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013132/6244M in, 1280880/198M out.
+Disks: 1715035/24G read, 1707030/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     4.6   40:47.40 9    4   1886   701M   9276K  54M    297  1    sleeping *0[1]      0.00000 0.00069    88  4174490+ 105994  28758834+ 13693659+ 11254558+ 40472326+ 13572739+ 5777    806001+ 10.1  41477482   77109858   _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1547 threads 
+2020/08/04 16:23:51
+Load Avg: 2.06, 2.02, 2.08 
+CPU usage: 1.69% user, 1.8% sys, 97.21% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86228 total, 2139M resident, 111M private, 945M shared.
+PhysMem: 7728M used (1514M wired), 462M unused.
+VM: 2329G vsize, 1881M framework vsize, 1294058(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013147/6244M in, 1280882/198M out.
+Disks: 1715035/24G read, 1707030/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW       PAGEINS IDLEW   POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     4.7   40:47.45 9    4   1886   701M   9276K  54M    297  1    sleeping *0[1]      0.00000 0.00068    88  4174495+ 105994  28758878+ 13693690+ 11254822+ 40472862+ 13572957+ 5777    806116+ 10.2  41262658   76389968   _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1599 threads 
+2020/08/04 16:23:52
+Load Avg: 2.06, 2.02, 2.08 
+CPU usage: 2.79% user, 5.22% sys, 91.98% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86228 total, 2139M resident, 111M private, 945M shared.
+PhysMem: 7730M used (1514M wired), 461M unused.
+VM: 2330G vsize, 1881M framework vsize, 1294058(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013175/6244M in, 1280886/198M out.
+Disks: 1715484/24G read, 1707443/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH   #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW        PAGEINS IDLEW    POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+0     kernel_task      20.2  22:15.02 171/8 0   0      349M-  0B     0B     0    0    running   0[0]      0.00000 0.00000    0   83174    0       41527963+ 35165693+ 0         0         115347427+ 0       2784853+ 0.0   143100700  594168825  root          N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1634 threads 
+2020/08/04 16:23:53
+Load Avg: 1.98, 2.00, 2.08 
+CPU usage: 2.53% user, 4.10% sys, 93.36% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86228 total, 2139M resident, 111M private, 945M shared.
+PhysMem: 7731M used (1514M wired), 459M unused.
+VM: 2330G vsize, 1881M framework vsize, 1294058(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013216/6244M in, 1280920/198M out.
+Disks: 1715504/24G read, 1707447/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH   #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW        PAGEINS IDLEW    POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+0     kernel_task      21.1  22:15.24 171/8 0   0      349M-  0B     0B     0    0    running   0[0]      0.00000 0.00000    0   83174    0       41533164+ 35170560+ 0         0         115350459+ 0       2785013+ 0.0   149775210  547303060  root          N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 4 running, 323 sleeping, 1653 threads 
+2020/08/04 16:23:54
+Load Avg: 1.98, 2.00, 2.08 
+CPU usage: 3.28% user, 3.88% sys, 92.83% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86228 total, 2139M resident, 111M private, 945M shared.
+PhysMem: 7733M used (1515M wired), 456M unused.
+VM: 2330G vsize, 1881M framework vsize, 1294058(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013255/6244M in, 1280958/198M out.
+Disks: 1715820/24G read, 1707566/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH   #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW        PAGEINS IDLEW    POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+0     kernel_task      16.6  22:15.41 171/9 0   0      349M   0B     0B     0    0    running   0[0]      0.00000 0.00000    0   83176+   0       41538387+ 35175448+ 0         0         115353864+ 0       2785269+ 0.0   115342391  487600891  root          N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 3 running, 324 sleeping, 1649 threads 
+2020/08/04 16:23:55
+Load Avg: 1.98, 2.00, 2.08 
+CPU usage: 10.33% user, 4.80% sys, 84.85% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86228 total, 2139M resident, 111M private, 945M shared.
+PhysMem: 7736M used (1518M wired), 455M unused.
+VM: 2330G vsize, 1881M framework vsize, 1294058(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013321/6244M in, 1281023/198M out.
+Disks: 1715908/24G read, 1707593/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH   #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW        PAGEINS IDLEW    POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+1541  com.apple.Safari 54.2  00:05.25 5     4   62-    4656K  0B     2608K- 1541 1    sleeping  0[12]     0.00000 54.12748   501 46811+   186     520+      231+      30794+    1282+     18546+     18280   1117     54.2  2443852635 1016707662 Kalii         N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1653 threads 
+2020/08/04 16:23:56
+Load Avg: 1.98, 2.00, 2.08 
+CPU usage: 5.80% user, 2.53% sys, 91.65% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86228 total, 2139M resident, 111M private, 945M shared.
+PhysMem: 7736M used (1527M wired), 454M unused.
+VM: 2330G vsize, 1881M framework vsize, 1294058(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013327/6244M in, 1281030/198M out.
+Disks: 1715908/24G read, 1707594/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH   #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW        PAGEINS IDLEW    POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+3789  Terminal         23.3  00:28.08 6     1   280    52M    912K   4680K  3789 1    sleeping *0-[660+]  0.03899 1.55783    501 400591+  973     230796+   53757+    206859+   635215+   193871+    1146    6477+    24.0  441869958  455671111  Kalii         N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1616 threads 
+2020/08/04 16:23:57
+Load Avg: 1.90, 1.98, 2.07 
+CPU usage: 2.30% user, 1.33% sys, 96.35% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86228 total, 2139M resident, 111M private, 945M shared.
+PhysMem: 7738M used (1530M wired), 452M unused.
+VM: 2330G vsize, 1881M framework vsize, 1294058(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013327/6244M in, 1281031/198M out.
+Disks: 1715908/24G read, 1707594/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH   #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW        PAGEINS IDLEW    POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     7.6   40:47.97 8     3   1887-  701M-  6648K  54M    297  1    sleeping *0[1]      1.06105 0.00276    88  4174859+ 105994  28762231+ 13695480+ 11258077+ 40482063+ 13576291+  5777    806656+  13.5  64469263   132285880  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1607 threads 
+2020/08/04 16:23:59
+Load Avg: 1.90, 1.98, 2.07 
+CPU usage: 2.5% user, 2.5% sys, 95.88% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86228 total, 2139M resident, 111M private, 945M shared.
+PhysMem: 7738M used (1530M wired), 452M unused.
+VM: 2330G vsize, 1881M framework vsize, 1294058(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013341/6244M in, 1281033/198M out.
+Disks: 1715909/24G read, 1707840/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH   #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW        PAGEINS IDLEW    POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     6.1   40:48.03 9     4   1887   701M-  6648K  54M    297  1    sleeping *0[1]      1.63932 0.00142    88  4174962+ 105994  28762316+ 13695530+ 11258308+ 40482651+ 13576541+  5777    806771+  11.7  81784578   105921801  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1597 threads 
+2020/08/04 16:24:00
+Load Avg: 1.90, 1.98, 2.07 
+CPU usage: 1.63% user, 2.62% sys, 95.74% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86228 total, 2139M resident, 111M private, 945M shared.
+PhysMem: 7738M used (1522M wired), 453M unused.
+VM: 2330G vsize, 1881M framework vsize, 1294058(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013349/6244M in, 1281033/198M out.
+Disks: 1715909/24G read, 1707871/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH   #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW        PAGEINS IDLEW    POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+4494  top              12.7  00:02.50 1/1   0   28     2556K  0B     0B     4494 4332 running  *0[1]      0.00000 0.00000    0   18105+   109     638597+   319215+   68527+    452059+   771+       5       31       12.7  310796674  420947324  root          N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1556 threads 
+2020/08/04 16:24:01
+Load Avg: 1.90, 1.98, 2.07 
+CPU usage: 2.17% user, 1.32% sys, 96.49% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86228 total, 2139M resident, 111M private, 945M shared.
+PhysMem: 7737M used (1522M wired), 453M unused.
+VM: 2330G vsize, 1881M framework vsize, 1294058(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013354/6244M in, 1281033/198M out.
+Disks: 1715909/24G read, 1707871/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH   #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW        PAGEINS IDLEW    POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     5.3   40:48.15 10    4   1891+  701M+  6648K  54M    297  1    sleeping *0[1]      0.00000 0.00141    88  4175060+ 105994  28762623+ 13695722+ 11258944+ 40484315+ 13577160+  5777    807004+  10.8  49621261   90278426   _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 326 total, 2 running, 324 sleeping, 1551 threads 
+2020/08/04 16:24:02
+Load Avg: 1.90, 1.98, 2.07 
+CPU usage: 1.81% user, 1.57% sys, 96.60% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86177 total, 2138M resident, 111M private, 945M shared.
+PhysMem: 7738M used (1524M wired), 453M unused.
+VM: 2325G vsize, 1881M framework vsize, 1294058(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013359/6244M in, 1281034/198M out.
+Disks: 1715909/24G read, 1707871/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH   #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW        PAGEINS IDLEW    POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     6.1   40:48.22 10    4   1893+  701M-  6648K  54M    297  1    sleeping *0[1]      0.41092 0.00299    88  4175081+ 105994  28762820+ 13695831+ 11259234+ 40485140+ 13577481+  5777    807120+  11.7  55547174   102875887  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1560 threads 
+2020/08/04 16:24:03
+Load Avg: 1.91, 1.98, 2.07 
+CPU usage: 3.1% user, 1.93% sys, 95.4% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86228 total, 2139M resident, 111M private, 945M shared.
+PhysMem: 7740M used (1528M wired), 451M unused.
+VM: 2330G vsize, 1881M framework vsize, 1294058(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013383/6244M in, 1281039/198M out.
+Disks: 1715909/24G read, 1707871/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH   #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW        PAGEINS IDLEW    POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     6.1   40:48.28 10    4   1894+  705M+  6648K  54M    297  1    sleeping *0[1]      0.14430 0.00197    88  4175096+ 105994  28763021+ 13695970+ 11259600+ 40485979+ 13577834+  5777    807228+  11.3  60883195   111085883  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1563 threads 
+2020/08/04 16:24:04
+Load Avg: 1.91, 1.98, 2.07 
+CPU usage: 2.5% user, 1.44% sys, 96.49% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86228 total, 2139M resident, 111M private, 945M shared.
+PhysMem: 7740M used (1526M wired), 450M unused.
+VM: 2330G vsize, 1881M framework vsize, 1294058(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013406/6244M in, 1281039/198M out.
+Disks: 1715909/24G read, 1707872/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH   #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW        PAGEINS IDLEW    POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     6.7   40:48.35 10    4   1893-  705M   6648K  54M    297  1    sleeping *0[1]      0.63912 0.00498    88  4175125+ 105994  28763318+ 13696120+ 11259937+ 40486975+ 13578232+  5777    807343+  12.3  61631478   115504231  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1561 threads 
+2020/08/04 16:24:05
+Load Avg: 1.91, 1.98, 2.07 
+CPU usage: 1.82% user, 1.45% sys, 96.71% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86228 total, 2139M resident, 111M private, 945M shared.
+PhysMem: 7740M used (1526M wired), 450M unused.
+VM: 2330G vsize, 1881M framework vsize, 1294058(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013413/6244M in, 1281039/198M out.
+Disks: 1715909/24G read, 1707872/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH   #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW        PAGEINS IDLEW    POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     6.7   40:48.42 9     4   1890-  705M-  6648K  54M    297  1    sleeping *0[1]      0.75809 0.00504    88  4175156+ 105994  28763611+ 13696263+ 11260318+ 40487966+ 13578616+  5777    807457+  12.2  59777655   113395805  _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 327 total, 2 running, 325 sleeping, 1560 threads 
+2020/08/04 16:24:06
+Load Avg: 1.91, 1.98, 2.07 
+CPU usage: 1.93% user, 1.44% sys, 96.61% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86228 total, 2139M resident, 111M private, 945M shared.
+PhysMem: 7741M used (1523M wired), 449M unused.
+VM: 2330G vsize, 1881M framework vsize, 1294122(64) swapins, 1430401(0) swapouts.
+Networks: packets: 5013420/6244M in, 1281040/198M out.
+Disks: 1715910/24G read, 1707872/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH   #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW        PAGEINS IDLEW    POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+297   WindowServer     5.5   40:48.48 9     4   1889-  705M   6648K  54M    297  1    sleeping *0[1]      0.17741 0.00202    88  4175168+ 105994  28763733+ 13696327+ 11260563+ 40488641+ 13578893+  5777    807570+  11.0  50697040   92848500   _windowserver N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 328 total, 3 running, 1 stuck, 324 sleeping, 1592 threads 
+2020/08/04 16:24:07
+Load Avg: 1.91, 1.98, 2.07 
+CPU usage: 7.72% user, 6.64% sys, 85.62% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86303 total, 2141M resident, 111M private, 945M shared.
+PhysMem: 7694M used (1524M wired), 496M unused.
+VM: 2334G vsize, 1881M framework vsize, 1294186(64) swapins, 1430401(0) swapouts.
+Networks: packets: 5013427/6244M in, 1281041/198M out.
+Disks: 1716270/24G read, 1709548/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH   #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME  %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW        PAGEINS IDLEW    POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+407   cloudd           16.8  00:13.52 13    6   281+   14M+   176K+  2852K  407  1    stuck    *61[1]     10.21203 0.11031    501 59053+   308     61737+    21154+    376946+   104278+   128386+    2753    1959+    17.0  283218249  355490358  Kalii         N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 328 total, 2 running, 326 sleeping, 1580 threads 
+2020/08/04 16:24:08
+Load Avg: 1.91, 1.98, 2.07 
+CPU usage: 4.58% user, 4.83% sys, 90.57% idle 
+SharedLibs: 182M resident, 59M data, 12M linkedit.
+MemRegions: 86303 total, 2141M resident, 111M private, 945M shared.
+PhysMem: 7694M used (1524M wired), 496M unused.
+VM: 2334G vsize, 1881M framework vsize, 1294186(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013429/6244M in, 1281041/198M out.
+Disks: 1716373/24G read, 1711252/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH   #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME  %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW        PAGEINS IDLEW    POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+407   cloudd           20.2  00:13.73 13    6   281    14M-   168K-  2848K- 407  1    sleeping *61[1]     12.54056 0.00000    501 59491+   308     61895+    21178+    384250+   104873+   129351+    2753    1965+    20.5  330894926  377131533  Kalii         N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 328 total, 4 running, 324 sleeping, 1585 threads 
+2020/08/04 16:24:09
+Load Avg: 1.91, 1.98, 2.07 
+CPU usage: 5.84% user, 2.43% sys, 91.71% idle 
+SharedLibs: 183M resident, 59M data, 12M linkedit.
+MemRegions: 86303 total, 2141M resident, 112M private, 945M shared.
+PhysMem: 7695M used (1524M wired), 494M unused.
+VM: 2334G vsize, 1881M framework vsize, 1294186(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013431/6244M in, 1281042/198M out.
+Disks: 1716381/24G read, 1711252/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH   #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME  %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW        PAGEINS IDLEW    POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+3789  Terminal         24.7  00:28.56 7/1   2   282    52M+   3660K- 4680K  3789 1    running  *0[663]    0.04782  1.40100    501 402891+  973     233481+   54353+    208479+   642596+   195678+    1146    6548+    25.3  466382829  474364731  Kalii         N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 328 total, 4 running, 324 sleeping, 1582 threads 
+2020/08/04 16:24:10
+Load Avg: 1.91, 1.98, 2.07 
+CPU usage: 3.87% user, 4.8% sys, 92.4% idle 
+SharedLibs: 183M resident, 59M data, 12M linkedit.
+MemRegions: 86303 total, 2141M resident, 112M private, 945M shared.
+PhysMem: 7696M used (1521M wired), 494M unused.
+VM: 2334G vsize, 1881M framework vsize, 1294186(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013444/6244M in, 1281044/198M out.
+Disks: 1716389/24G read, 1711252/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH   #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME  %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW        PAGEINS IDLEW    POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+4494  top              13.3  00:02.92 1/1   0   29     2568K  0B     0B     4494 4332 running  *0[1]      0.00000  0.00000    0   21400+   109     723275+   361539+   81675+    519953+   862+       5       37       13.3  311099578  436016662  root          N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 328 total, 2 running, 326 sleeping, 1584 threads 
+2020/08/04 16:24:11
+Load Avg: 1.91, 1.98, 2.07 
+CPU usage: 5.33% user, 4.73% sys, 89.92% idle 
+SharedLibs: 183M resident, 59M data, 12M linkedit.
+MemRegions: 86303 total, 2141M resident, 112M private, 945M shared.
+PhysMem: 7698M used (1531M wired), 492M unused.
+VM: 2334G vsize, 1881M framework vsize, 1294186(0) swapins, 1430401(0) swapouts.
+Networks: packets: 5013450/6244M in, 1281046/198M out.
+Disks: 1716389/24G read, 1711252/22G written.
+
+PID   COMMAND          %CPU  TIME     #TH   #WQ #PORTS MEM    PURG   CMPRS  PGRP PPID STATE    BOOSTS     %CPU_ME  %CPU_OTHRS UID FAULTS   COW     MSGSENT   MSGRECV   SYSBSD    SYSMACH   CSW        PAGEINS IDLEW    POWER INSTRS     CYCLES     USER          #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+3789  Terminal         29.8  00:28.97 8     3   296+   51M+   6368K+ 4496K- 3789 1    sleeping *0-[663]   0.10690  1.96262    501 403606+  979+    235677+   54837+    259223+   647896+   197145+    1215+   6553+    29.9  1274406116 829133766  Kalii         N/A    N/A   N/A   N/A   N/A   N/A  
