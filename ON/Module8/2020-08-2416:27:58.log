@@ -1,0 +1,234 @@
+Processes: 320 total, 2 running, 318 sleeping, 1681 threads 
+2020/08/24 16:27:59
+Load Avg: 1.70, 2.39, 2.64 
+CPU usage: 13.52% user, 11.74% sys, 74.73% idle 
+SharedLibs: 200M resident, 51M data, 14M linkedit.
+MemRegions: 149681 total, 2126M resident, 88M private, 812M shared.
+PhysMem: 8056M used (1876M wired), 133M unused.
+VM: 2401G vsize, 1881M framework vsize, 174889995(0) swapins, 177924211(0) swapouts.
+Networks: packets: 71741642/82G in, 27126817/6521M out.
+Disks: 40307281/1068G read, 41085493/1061G written.
+
+PID    COMMAND %CPU TIME     #TH #WQ #PORTS MEM  PURG CMPRS PGRP  PPID  STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS COW MSGSENT MSGRECV SYSBSD SYSMACH CSW PAGEINS IDLEW POWER INSTRS CYCLES USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+74368  tee     0.0  00:00.00 1   0   11     392K 0B   0B    74367 74328 sleeping *0[1]  0.00000 0.00000    501 354    67  29      14      142    56      8   1       0     0.0   0      0      Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 320 total, 2 running, 318 sleeping, 1684 threads 
+2020/08/24 16:28:00
+Load Avg: 1.70, 2.39, 2.64 
+CPU usage: 15.23% user, 5.35% sys, 79.41% idle 
+SharedLibs: 200M resident, 51M data, 14M linkedit.
+MemRegions: 149681 total, 2126M resident, 88M private, 812M shared.
+PhysMem: 8058M used (1874M wired), 132M unused.
+VM: 2401G vsize, 1881M framework vsize, 174889995(0) swapins, 177924211(0) swapouts.
+Networks: packets: 71741645/82G in, 27126819/6521M out.
+Disks: 40307286/1068G read, 41085494/1061G written.
+
+PID    COMMAND          %CPU TIME     #TH #WQ #PORTS MEM   PURG CMPRS PGRP  PPID  STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS  COW   MSGSENT  MSGRECV SYSBSD   SYSMACH  CSW      PAGEINS IDLEW  POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+74113  Google Chrome He 71.2 10:40.45 26  1   228    401M+ 0B   84M-  701   701   sleeping *0[6]  0.00000 0.00000    501 948863+ 12373 1044663+ 533601+ 4040515+ 4503066+ 3456642+ 526     70498+ 73.1  1839554279 2149536518 Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 320 total, 2 running, 318 sleeping, 1685 threads 
+2020/08/24 16:28:01
+Load Avg: 1.70, 2.39, 2.64 
+CPU usage: 18.56% user, 3.95% sys, 77.48% idle 
+SharedLibs: 200M resident, 51M data, 14M linkedit.
+MemRegions: 149681 total, 2126M resident, 88M private, 812M shared.
+PhysMem: 8052M used (1873M wired), 139M unused.
+VM: 2401G vsize, 1881M framework vsize, 174889995(0) swapins, 177924211(0) swapouts.
+Networks: packets: 71741651/82G in, 27126821/6521M out.
+Disks: 40307286/1068G read, 41085495/1061G written.
+
+PID    COMMAND          %CPU  TIME     #TH #WQ #PORTS MEM   PURG CMPRS PGRP  PPID  STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS  COW   MSGSENT  MSGRECV SYSBSD   SYSMACH  CSW      PAGEINS IDLEW  POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+74113  Google Chrome He 113.3 10:41.63 26  1   228    395M- 0B   84M-  701   701   sleeping *0[6]  0.00000 0.00000    501 949412+ 12373 1045966+ 534046+ 4047045+ 4506924+ 3462265+ 526     70549+ 115.7 2265284054 2548903301 Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 320 total, 2 running, 318 sleeping, 1686 threads 
+2020/08/24 16:28:02
+Load Avg: 1.70, 2.39, 2.64 
+CPU usage: 16.72% user, 5.85% sys, 77.41% idle 
+SharedLibs: 200M resident, 51M data, 14M linkedit.
+MemRegions: 149681 total, 2126M resident, 88M private, 812M shared.
+PhysMem: 8052M used (1870M wired), 138M unused.
+VM: 2401G vsize, 1881M framework vsize, 174889995(0) swapins, 177924211(0) swapouts.
+Networks: packets: 71741651/82G in, 27126821/6521M out.
+Disks: 40307286/1068G read, 41085634/1061G written.
+
+PID    COMMAND          %CPU  TIME     #TH #WQ #PORTS MEM   PURG CMPRS PGRP  PPID  STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS  COW   MSGSENT  MSGRECV SYSBSD   SYSMACH  CSW      PAGEINS IDLEW  POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+74113  Google Chrome He 92.0  10:42.59 26  1   228    395M  0B   84M   701   701   sleeping *0[6]  0.00000 0.00000    501 949472+ 12373 1047204+ 534495+ 4052857+ 4510550+ 3467507+ 526     70596+ 94.2  1551333949 1881531509 Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 320 total, 2 running, 318 sleeping, 1693 threads 
+2020/08/24 16:28:03
+Load Avg: 1.70, 2.39, 2.64 
+CPU usage: 15.34% user, 3.83% sys, 80.81% idle 
+SharedLibs: 200M resident, 51M data, 14M linkedit.
+MemRegions: 149681 total, 2126M resident, 88M private, 812M shared.
+PhysMem: 8052M used (1815M wired), 138M unused.
+VM: 2401G vsize, 1881M framework vsize, 174889995(0) swapins, 177924211(0) swapouts.
+Networks: packets: 71741656/82G in, 27126827/6521M out.
+Disks: 40307286/1068G read, 41085634/1061G written.
+
+PID    COMMAND          %CPU  TIME     #TH #WQ #PORTS MEM   PURG CMPRS PGRP  PPID  STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS  COW   MSGSENT  MSGRECV SYSBSD   SYSMACH  CSW      PAGEINS IDLEW  POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+74113  Google Chrome He 89.1  10:43.52 26  1   228    395M+ 0B   84M   701   701   sleeping *0[6]  0.00000 0.00000    501 949476+ 12373 1048446+ 534953+ 4058438+ 4514187+ 3472294+ 526     70651+ 91.7  1452837548 1776091219 Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 320 total, 3 running, 317 sleeping, 1685 threads 
+2020/08/24 16:28:04
+Load Avg: 1.89, 2.41, 2.65 
+CPU usage: 16.58% user, 6.80% sys, 76.61% idle 
+SharedLibs: 200M resident, 51M data, 14M linkedit.
+MemRegions: 149681 total, 2126M resident, 88M private, 812M shared.
+PhysMem: 8052M used (1810M wired), 139M unused.
+VM: 2401G vsize, 1881M framework vsize, 174889995(0) swapins, 177924211(0) swapouts.
+Networks: packets: 71743609/82G in, 27127041/6521M out.
+Disks: 40307287/1068G read, 41086015/1061G written.
+
+PID    COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG CMPRS PGRP  PPID  STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS  COW   MSGSENT  MSGRECV SYSBSD   SYSMACH  CSW      PAGEINS IDLEW  POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+74113  Google Chrome He 90.3  10:44.47 26/4 1   228    398M+ 0B   82M-  701   701   running  *0[6]  0.00000 0.00000    501 951349+ 12373 1050186+ 535896+ 4065949+ 4521096+ 3478948+ 526     70708+ 93.0  1445304029 1923846898 Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 320 total, 3 running, 317 sleeping, 1680 threads 
+2020/08/24 16:28:05
+Load Avg: 1.89, 2.41, 2.65 
+CPU usage: 15.69% user, 4.16% sys, 80.14% idle 
+SharedLibs: 200M resident, 51M data, 14M linkedit.
+MemRegions: 149681 total, 2126M resident, 88M private, 812M shared.
+PhysMem: 8054M used (1812M wired), 136M unused.
+VM: 2401G vsize, 1881M framework vsize, 174889995(0) swapins, 177924211(0) swapouts.
+Networks: packets: 71743611/82G in, 27127043/6521M out.
+Disks: 40307287/1068G read, 41086015/1061G written.
+
+PID    COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG CMPRS PGRP  PPID  STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS  COW   MSGSENT  MSGRECV SYSBSD   SYSMACH  CSW      PAGEINS IDLEW  POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+74113  Google Chrome He 93.5  10:45.45 26/5 1   229+   398M+ 0B   82M-  701   701   running  *0[6]  0.00000 0.00000    501 951416+ 12373 1051467+ 536373+ 4072076+ 4524878+ 3484126+ 526     70770+ 96.5  1558630053 1868053462 Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 320 total, 2 running, 318 sleeping, 1683 threads 
+2020/08/24 16:28:06
+Load Avg: 1.89, 2.41, 2.65 
+CPU usage: 16.66% user, 4.7% sys, 79.25% idle 
+SharedLibs: 200M resident, 51M data, 14M linkedit.
+MemRegions: 149681 total, 2126M resident, 88M private, 812M shared.
+PhysMem: 8054M used (1815M wired), 137M unused.
+VM: 2401G vsize, 1881M framework vsize, 174889995(0) swapins, 177924211(0) swapouts.
+Networks: packets: 71743614/82G in, 27127044/6521M out.
+Disks: 40307288/1068G read, 41086015/1061G written.
+
+PID    COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG CMPRS PGRP  PPID  STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS  COW   MSGSENT  MSGRECV SYSBSD   SYSMACH  CSW      PAGEINS IDLEW  POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+74113  Google Chrome He 95.0  10:46.44 26   1   228-   398M  0B   82M   701   701   sleeping *0[6]  0.00000 0.00000    501 951416  12373 1052700+ 536823+ 4078489+ 4528486+ 3489538+ 526     70839+ 98.3  1569840090 1915356103 Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 320 total, 2 running, 318 sleeping, 1682 threads 
+2020/08/24 16:28:07
+Load Avg: 1.89, 2.41, 2.65 
+CPU usage: 18.0% user, 3.96% sys, 78.3% idle 
+SharedLibs: 200M resident, 51M data, 14M linkedit.
+MemRegions: 149681 total, 2126M resident, 88M private, 812M shared.
+PhysMem: 8054M used (1815M wired), 137M unused.
+VM: 2401G vsize, 1881M framework vsize, 174889995(0) swapins, 177924211(0) swapouts.
+Networks: packets: 71743618/82G in, 27127047/6521M out.
+Disks: 40307291/1068G read, 41086018/1061G written.
+
+PID    COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG CMPRS PGRP  PPID  STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS  COW   MSGSENT  MSGRECV SYSBSD   SYSMACH  CSW      PAGEINS IDLEW  POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+74113  Google Chrome He 94.5  10:47.43 26   1   228    398M  0B   82M   701   701   sleeping *0[6]  0.00000 0.00000    501 951416  12373 1053937+ 537271+ 4084573+ 4532155+ 3494992+ 526     70903+ 97.6  1667724510 2034658954 Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 320 total, 2 running, 318 sleeping, 1685 threads 
+2020/08/24 16:28:08
+Load Avg: 1.89, 2.41, 2.65 
+CPU usage: 16.76% user, 4.63% sys, 78.59% idle 
+SharedLibs: 200M resident, 51M data, 14M linkedit.
+MemRegions: 149681 total, 2126M resident, 88M private, 812M shared.
+PhysMem: 8054M used (1815M wired), 136M unused.
+VM: 2401G vsize, 1881M framework vsize, 174889995(0) swapins, 177924211(0) swapouts.
+Networks: packets: 71743620/82G in, 27127049/6521M out.
+Disks: 40307293/1068G read, 41086018/1061G written.
+
+PID    COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG CMPRS PGRP  PPID  STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS  COW   MSGSENT  MSGRECV SYSBSD   SYSMACH  CSW      PAGEINS IDLEW  POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+74113  Google Chrome He 89.8  10:48.37 26   1   228    398M  0B   82M   701   701   sleeping *0[6]  0.00000 0.00000    501 951416  12373 1055169+ 537722+ 4090633+ 4535742+ 3500157+ 526     70955+ 92.3  1599046792 1879995841 Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 320 total, 2 running, 318 sleeping, 1692 threads 
+2020/08/24 16:28:09
+Load Avg: 1.98, 2.42, 2.65 
+CPU usage: 16.60% user, 4.30% sys, 79.9% idle 
+SharedLibs: 200M resident, 51M data, 14M linkedit.
+MemRegions: 149681 total, 2126M resident, 88M private, 812M shared.
+PhysMem: 8052M used (1815M wired), 137M unused.
+VM: 2401G vsize, 1882M framework vsize, 174889995(0) swapins, 177924211(0) swapouts.
+Networks: packets: 71743633/82G in, 27127060/6521M out.
+Disks: 40307293/1068G read, 41086018/1061G written.
+
+PID    COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG CMPRS PGRP  PPID  STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS  COW   MSGSENT  MSGRECV SYSBSD   SYSMACH  CSW      PAGEINS IDLEW  POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+74113  Google Chrome He 95.0  10:49.37 26   1   228    398M+ 0B   82M-  701   701   sleeping *0[6]  0.00000 0.00000    501 951868+ 12373 1056396+ 538174+ 4096542+ 4539351+ 3505317+ 526     71019+ 98.0  1632139223 1903153567 Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 320 total, 3 running, 317 sleeping, 1686 threads 
+2020/08/24 16:28:10
+Load Avg: 1.98, 2.42, 2.65 
+CPU usage: 15.44% user, 5.29% sys, 79.25% idle 
+SharedLibs: 200M resident, 51M data, 14M linkedit.
+MemRegions: 149681 total, 2126M resident, 88M private, 812M shared.
+PhysMem: 8055M used (1818M wired), 135M unused.
+VM: 2401G vsize, 1882M framework vsize, 174889995(0) swapins, 177924211(0) swapouts.
+Networks: packets: 71743643/82G in, 27127067/6521M out.
+Disks: 40307293/1068G read, 41086018/1061G written.
+
+PID    COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG CMPRS PGRP  PPID  STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS  COW   MSGSENT  MSGRECV SYSBSD   SYSMACH  CSW      PAGEINS IDLEW  POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+74113  Google Chrome He 89.4  10:50.42 26/4 1   228    398M  0B   82M   701   701   running  *0[6]  0.00000 0.00000    501 951868  12373 1057788+ 538680+ 4103230+ 4543426+ 3510953+ 526     71086+ 92.3  1756850796 2130587758 Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 320 total, 2 running, 318 sleeping, 1682 threads 
+2020/08/24 16:28:11
+Load Avg: 1.98, 2.42, 2.65 
+CPU usage: 16.70% user, 4.65% sys, 78.63% idle 
+SharedLibs: 200M resident, 51M data, 14M linkedit.
+MemRegions: 149681 total, 2126M resident, 88M private, 812M shared.
+PhysMem: 8055M used (1815M wired), 135M unused.
+VM: 2401G vsize, 1882M framework vsize, 174889995(0) swapins, 177924211(0) swapouts.
+Networks: packets: 71743645/82G in, 27127068/6521M out.
+Disks: 40307293/1068G read, 41086031/1061G written.
+
+PID    COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG CMPRS PGRP  PPID  STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS  COW   MSGSENT  MSGRECV SYSBSD   SYSMACH  CSW      PAGEINS IDLEW  POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+74113  Google Chrome He 94.3  10:51.41 26   1   228    398M  0B   82M   701   701   sleeping *0[6]  0.00000 0.00000    501 951868  12373 1059022+ 539127+ 4109239+ 4547013+ 3516265+ 526     71157+ 97.7  1580793324 1907357947 Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 320 total, 3 running, 317 sleeping, 1686 threads 
+2020/08/24 16:28:12
+Load Avg: 1.98, 2.42, 2.65 
+CPU usage: 17.26% user, 5.15% sys, 77.57% idle 
+SharedLibs: 200M resident, 51M data, 14M linkedit.
+MemRegions: 149681 total, 2126M resident, 88M private, 812M shared.
+PhysMem: 8055M used (1815M wired), 135M unused.
+VM: 2401G vsize, 1882M framework vsize, 174889995(0) swapins, 177924211(0) swapouts.
+Networks: packets: 71743645/82G in, 27127069/6521M out.
+Disks: 40307293/1068G read, 41086031/1061G written.
+
+PID    COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG CMPRS PGRP  PPID  STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS  COW   MSGSENT  MSGRECV SYSBSD   SYSMACH  CSW      PAGEINS IDLEW  POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+74113  Google Chrome He 94.9  10:52.40 26/1 1   228    398M+ 0B   82M   701   701   running  *0[6]  0.00000 0.00000    501 951868  12373 1060258+ 539575+ 4115161+ 4550668+ 3521548+ 526     71228+ 98.3  1646666889 1933490524 Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 320 total, 4 running, 316 sleeping, 1679 threads 
+2020/08/24 16:28:13
+Load Avg: 1.90, 2.40, 2.64 
+CPU usage: 16.78% user, 5.83% sys, 77.38% idle 
+SharedLibs: 200M resident, 51M data, 14M linkedit.
+MemRegions: 149681 total, 2126M resident, 88M private, 812M shared.
+PhysMem: 8055M used (1815M wired), 135M unused.
+VM: 2401G vsize, 1882M framework vsize, 174889995(0) swapins, 177924211(0) swapouts.
+Networks: packets: 71745220/82G in, 27127244/6521M out.
+Disks: 40307293/1068G read, 41086257/1061G written.
+
+PID    COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG CMPRS PGRP  PPID  STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS  COW   MSGSENT  MSGRECV SYSBSD   SYSMACH  CSW      PAGEINS IDLEW  POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+74113  Google Chrome He 96.1  10:53.41 26/4 1   228    400M+ 0B   82M-  701   701   running  *0[6]  0.00000 0.00000    501 952538+ 12373 1061807+ 540334+ 4122043+ 4556289+ 3527649+ 526     71295+ 99.3  1671056693 2062784018 Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 320 total, 2 running, 318 sleeping, 1683 threads 
+2020/08/24 16:28:14
+Load Avg: 1.90, 2.40, 2.64 
+CPU usage: 16.80% user, 4.44% sys, 78.75% idle 
+SharedLibs: 200M resident, 51M data, 14M linkedit.
+MemRegions: 149681 total, 2126M resident, 88M private, 812M shared.
+PhysMem: 8055M used (1811M wired), 135M unused.
+VM: 2401G vsize, 1882M framework vsize, 174889995(0) swapins, 177924211(0) swapouts.
+Networks: packets: 71745223/82G in, 27127246/6521M out.
+Disks: 40307293/1068G read, 41086257/1061G written.
+
+PID    COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG CMPRS PGRP  PPID  STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS  COW   MSGSENT  MSGRECV SYSBSD   SYSMACH  CSW      PAGEINS IDLEW  POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+74113  Google Chrome He 93.3  10:54.39 26   1   228    400M- 0B   82M   701   701   sleeping *0[6]  0.00000 0.00000    501 952666+ 12373 1063036+ 540782+ 4127909+ 4559917+ 3532849+ 526     71363+ 96.5  1509450181 1915570056 Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 320 total, 2 running, 318 sleeping, 1683 threads 
+2020/08/24 16:28:15
+Load Avg: 1.90, 2.40, 2.64 
+CPU usage: 16.84% user, 5.13% sys, 78.1% idle 
+SharedLibs: 200M resident, 51M data, 14M linkedit.
+MemRegions: 149681 total, 2126M resident, 88M private, 812M shared.
+PhysMem: 8052M used (1808M wired), 138M unused.
+VM: 2401G vsize, 1882M framework vsize, 174889995(0) swapins, 177924211(0) swapouts.
+Networks: packets: 71745225/82G in, 27127247/6521M out.
+Disks: 40307293/1068G read, 41086257/1061G written.
+
+PID    COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG CMPRS PGRP  PPID  STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS  COW   MSGSENT  MSGRECV SYSBSD   SYSMACH  CSW      PAGEINS IDLEW  POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+74113  Google Chrome He 91.3  10:55.34 26   1   228    400M  0B   82M   701   701   sleeping *0[6]  0.00000 0.00000    501 952683+ 12373 1064284+ 541239+ 4133672+ 4563546+ 3537886+ 526     71424+ 94.2  1446347777 1833849759 Kalii N/A    N/A   N/A   N/A   N/A   N/A  
+Processes: 320 total, 2 running, 318 sleeping, 1687 threads 
+2020/08/24 16:28:17
+Load Avg: 1.90, 2.40, 2.64 
+CPU usage: 16.90% user, 5.0% sys, 78.9% idle 
+SharedLibs: 200M resident, 51M data, 14M linkedit.
+MemRegions: 149681 total, 2126M resident, 88M private, 812M shared.
+PhysMem: 8060M used (1821M wired), 130M unused.
+VM: 2401G vsize, 1882M framework vsize, 174890187(192) swapins, 177924211(0) swapouts.
+Networks: packets: 71745229/82G in, 27127247/6521M out.
+Disks: 40307310/1068G read, 41086456/1061G written.
+
+PID    COMMAND          %CPU  TIME     #TH  #WQ #PORTS MEM   PURG CMPRS PGRP  PPID  STATE    BOOSTS %CPU_ME %CPU_OTHRS UID FAULTS  COW   MSGSENT  MSGRECV SYSBSD   SYSMACH  CSW      PAGEINS IDLEW  POWER INSTRS     CYCLES     USER  #MREGS RPRVT VPRVT VSIZE KPRVT KSHRD
+74113  Google Chrome He 89.4  10:56.27 26   1   228    400M  0B   82M   701   701   sleeping *0[6]  0.00000 0.00000    501 952695+ 12373 1065530+ 541693+ 4139400+ 4567172+ 3543012+ 526     71492+ 92.6  1442489822 1853457428 Kalii N/A    N/A   N/A   N/A   N/A   N/A  
